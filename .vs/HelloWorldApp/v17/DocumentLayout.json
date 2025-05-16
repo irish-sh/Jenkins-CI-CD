@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shirishk\\source\\repos\\HelloWorldApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C258F45-C053-439C-9566-111911401CC9}|HelloWorldApp\\HelloWorldApp.csproj|c:\\users\\shirishk\\source\\repos\\helloworldapp\\helloworldapp\\scripts\\build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C258F45-C053-439C-9566-111911401CC9}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\scripts\\build.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C258F45-C053-439C-9566-111911401CC9}|HelloWorldApp\\HelloWorldApp.csproj|c:\\users\\shirishk\\source\\repos\\helloworldapp\\helloworldapp\\scripts\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C258F45-C053-439C-9566-111911401CC9}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\scripts\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "build.bat",
+              "DocumentMoniker": "C:\\Users\\shirishk\\source\\repos\\HelloWorldApp\\HelloWorldApp\\Scripts\\build.bat",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Scripts\\build.bat",
+              "ToolTip": "C:\\Users\\shirishk\\source\\repos\\HelloWorldApp\\HelloWorldApp\\Scripts\\build.bat",
+              "RelativeToolTip": "HelloWorldApp\\Scripts\\build.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-05-16T06:34:52.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "run.bat",
+              "DocumentMoniker": "C:\\Users\\shirishk\\source\\repos\\HelloWorldApp\\HelloWorldApp\\Scripts\\run.bat",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Scripts\\run.bat",
+              "ToolTip": "C:\\Users\\shirishk\\source\\repos\\HelloWorldApp\\HelloWorldApp\\Scripts\\run.bat",
+              "RelativeToolTip": "HelloWorldApp\\Scripts\\run.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-05-16T05:25:46.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

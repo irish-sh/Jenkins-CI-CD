@@ -1,0 +1,21 @@
+Build started 16-05-2025 12:11:55 PM.
+
+Project "C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\HelloWorldApp.sln" on node 1 (Rebuild target(s)).
+ValidateSolutionConfiguration:
+  Building solution configuration "Release|Any CPU".
+Project "C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\HelloWorldApp.sln" (1) is building "C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\Program.csproj" (2) on node 1 (Rebuild target(s)).
+C:\Program Files\dotnet\sdk\9.0.203\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\obj\project.assets.json' not found. Run a NuGet package restore to generate this file. [C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\Program.csproj]
+Done Building Project "C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\Program.csproj" (Rebuild target(s)) -- FAILED.
+Done Building Project "C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\HelloWorldApp.sln" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\HelloWorldApp.sln" (Rebuild target) (1) ->
+"C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\Program.csproj" (Rebuild target) (2) ->
+(ResolvePackageAssets target) -> 
+  C:\Program Files\dotnet\sdk\9.0.203\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\obj\project.assets.json' not found. Run a NuGet package restore to generate this file. [C:\Users\shirishk\source\repos\HelloWorldApp\HelloWorldApp\Program\Program.csproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.47
